@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hello, Jenka" + 444);
         System.out.println("Hello, 3i/atlas 789");
         System.out.println(6*0);
+        System.out.println(6*7);
 
     }
 }
