@@ -53,6 +53,3 @@ public class Main {
         System.out.println("Город: Москва");*/
     }
 }
-
-
-
