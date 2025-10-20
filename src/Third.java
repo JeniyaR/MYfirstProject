@@ -241,7 +241,7 @@ import java.util.Scanner;
                         System.out.println("Воскресенье");
                         break;
                     default:
-                        System.out.println("Совпадений нигде нет");
+                        System.out.println("Совпадений нигде нет");   //а
                 }
 */
 
